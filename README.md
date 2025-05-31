@@ -27,7 +27,8 @@ The project uses three primary datasets:
 
 - **Popular Content Trends**: The most listened-to podcast categories are *Society*, *Sports*, and *News*, indicating users' preference for socially engaging and up-to-date content.
 - **User Engagement by Gender**: Female listeners demonstrated longer average listening durations than male users, suggesting deeper engagement or stronger content affinity.
-- **Underrepresented Categories**: Topics like *Religion*, *Politics*, and *Technology* received the least attention, offering potential areas for targeted growth or niche podcast production.
+- **Less Popular Categories**: Topics like *Religion*, *Politics*, and *Technology* received the least attention, offering potential areas for targeted growth or niche podcast production.
+- **Country Trends**:Jordan shows highest engagement, especially in *Society* and *Sports*. Morocco prefers *News*, while UAE has the lowest activity.
 
 
 ## 🚀 How to Run
