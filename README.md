@@ -1,6 +1,8 @@
 # 🎧 Podcast Insights: From Data to Recommendation
 
-This project explores user listening behavior on podcast episodes and provides actionable insights based on demographic and categorical analysis. It was developed as part of a data science and AI training task for **Thmanyah**.
+
+This project analyzes podcast listening records to better understand user behavior and preferences.
+By examining user activity and listening patterns, it provides data-driven insights and initial recommendations to help improve content strategy and audience engagement.
 
 ## 📁 Dataset Description
 
