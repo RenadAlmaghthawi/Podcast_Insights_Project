@@ -22,7 +22,8 @@ The project uses three primary datasets:
    - Identified top podcast categories by number of listens.
    - Compared average listening durations between male and female users using plots.
    - Used `matplotlib` and `seaborn` for visualizations.
-
+5. **Basic Recommendation Method**:
+- Developed a simple recommendation function in Python that suggests 3 podcast episodes for each user based on their most listened-to category.
 ## 📊 Key Findings
 
 - **Popular Content Trends**: The most listened-to podcast categories are *Society*, *Sports*, and *News*, indicating users' preference for socially engaging and up-to-date content.
